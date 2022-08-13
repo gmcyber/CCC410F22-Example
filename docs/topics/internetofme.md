@@ -24,7 +24,7 @@ Sensor data currently available
 
     > Not a lot of historical data, I've not weight myself since the start of the COVID pandemic
 
-## Answer the Questions
+## Objectives
 
 * Download and survey the 3 years of strored GoogleFit holdings.  What data is actually stored, in what format.  
 

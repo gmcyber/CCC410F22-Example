@@ -4,7 +4,7 @@
 
 ## Why?
 
-vcenter's web client is overkill for the low interaction needs of a cyber security range.  The student needs a client such as kali and windows 10 desktop and they need the networking to reach their assigned set of targets.  That is it.  Using the vcenter webui, ties us to vcenter, esxi and vmware based products.  A web interface would allow us to swap out the backend virtualization layer should we want to later.
+VCenter's web client is overkill for the low interaction needs of a cyber security range.  The student needs a client such as kali and windows 10 desktop and they need the networking to reach their assigned set of targets.  That is it.  Using the vcenter webui, ties us to vcenter, esxi and vmware based products.  A web interface would allow us to swap out the backend virtualization layer should we want to later.
 
 ## Features/Objectives
 
@@ -19,7 +19,7 @@ vcenter's web client is overkill for the low interaction needs of a cyber securi
     * public IP address
     * hostname
   * A user will be able to restore the target to "target ready state" in the case where they need to restart the exercise from scratch.
-  * Students will be able to retrieve target hints.  The number of hints used during target interaction will also be stored.
+  * Students will be able to retrieve target hints, in a manner similar to CTF platforms.  The number of hints used during target interaction will also be stored.
 
 ## Constraints
 
