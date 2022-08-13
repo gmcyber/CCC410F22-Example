@@ -15,7 +15,7 @@ Instead of using the wiki option, you can use a markdown editor and store your m
 
 ### Github Wiki Option
 
-This is pretty straight forward, you essentially just select the [Wiki Tab](https://github.com/gmcyber/CapstoneDemo/wiki) and author your content in any supported markup language as many of you have done in your tech-jounals for CNCS courses.  The advantage of the github wiki is that it can remain private between you and chosen collaborators until you are ready to show it close to the end of the Design semester.  Github pages are wide open.
+This is pretty straight forward, you essentially just select the [Wiki Tab](https://github.com/gmcyber/CCC410F22-Example/wiki) and author your content in any supported markup language as many of you have done in your tech-jounals for CNCS courses.  The advantage of the github wiki is that it can remain private between you and chosen collaborators until you are ready to show it close to the end of the Design semester.  Github pages are wide open.
 
 ### Github Pages Option
 This option holds far more potential and capabilites than the Wiki option.  With this option, comes a good deal of complexity.  Our suggestion would be to start with the Wiki option and then if constrained, consider Github pages.  Here are some basic tips.
@@ -34,6 +34,10 @@ This option holds far more potential and capabilites than the Wiki option.  With
 
 ## Project Management
 * Github provides rudimentary Project management and tracking tools.  You can use other alternatives such as MS Project or Trello if you wish.  Talk to your instructor about expectations.
+
+* One creates a project in your main github profile area and you link it to the specific repository within the project settings. 
+
+  ![image-20220813142547592](README.assets/image-20220813142547592.png)  
 
 ## Capstone Content
 
