@@ -1,7 +1,7 @@
 # CCC410F22-Example
 [TOC]
 
-
+> Note, TOC does not show up in github but displays nicely in Typora.
 
 ## Content Background
 
