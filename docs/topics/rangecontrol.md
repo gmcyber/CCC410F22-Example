@@ -4,9 +4,9 @@
 
 ## Why?
 
-vcenter's web client is overkill for the low interraction needs of a cyber security range.  The student needs a client such as kali and windows 10 desktop and they need the networking to reach their assigned set of targets.  That is it.  Using the vcenter webui, ties us to vcenter, esxi and vmware based products.  A web interface would allow us to swap out the backend virtualization layer should we want to later.
+vcenter's web client is overkill for the low interaction needs of a cyber security range.  The student needs a client such as kali and windows 10 desktop and they need the networking to reach their assigned set of targets.  That is it.  Using the vcenter webui, ties us to vcenter, esxi and vmware based products.  A web interface would allow us to swap out the backend virtualization layer should we want to later.
 
-## Features
+## Features/Objectives
 
 * Single Signon (SSO) will use Active Directory as the authentication (accounts) and authorization (AD security groups)
 * The application backend will integrate with vcenter such that available target VMs are displayed to the student.
