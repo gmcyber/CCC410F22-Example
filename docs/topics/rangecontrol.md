@@ -6,6 +6,8 @@
 
 VCenter's web client is overkill for the low interaction needs of a cyber security range.  The student needs a client such as kali and windows 10 desktop and they need the networking to reach their assigned set of targets.  That is it.  Using the vcenter webui, ties us to vcenter, esxi and vmware based products.  A web interface would allow us to swap out the backend virtualization layer should we want to later.
 
+This project will also allow me to exercise programming, system administration and security skills to develop an open source offering that has similar functionality to commercial for profit range and ctf platforms.
+
 ## Features/Objectives
 
 * Single Signon (SSO) will use Active Directory as the authentication (accounts) and authorization (AD security groups)
@@ -23,5 +25,5 @@ VCenter's web client is overkill for the low interaction needs of a cyber securi
 
 ## Constraints
 
-* Very likely going to be a python or python web framework based application.  Pyvmomi libraries are relatively mature
+* Very likely going to be a python or python web framework based application.  Pyvmomi libraries are relatively mature but will likely require far more work than the powershell frameworks I'm used to.
 * We are a vmware shop, so the back end is known.
