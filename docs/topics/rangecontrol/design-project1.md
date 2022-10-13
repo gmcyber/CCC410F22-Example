@@ -6,9 +6,10 @@ Week 1 - Set up a Development Environment
 
 * vcenter/esxi/active directory setup (will use vcenter02)
 * create a range control service user and a set of "test range users" in AD.
-* development workstation
-* pyvmomi
-* django
+* development workstation [range-control-dev.md](range-control-dev.md) 
+  * pyvmomi
+  * django
+
 
 Week 2 - Django AD integration
 
