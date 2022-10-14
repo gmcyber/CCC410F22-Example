@@ -92,5 +92,9 @@ AUTHENTICATION_BACKENDS = ( 'django_auth_ldap.backend.LDAPBackend','django.contr
 
 
 
+## AD Super User login
 
+> The following shows an ldaps based login to django using a user within an active directory group.
+
+![image-20221014082709905](django.assets/image-20221014082709905.png) 
 
