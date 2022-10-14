@@ -1,0 +1,10 @@
+# range control git ignore file
+venv/
+db.sqlite3
+manage.py
+*.pyc
+*.log
+*.pot
+__pycache__
+__init__.py
+secure_settings.py
