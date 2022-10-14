@@ -61,7 +61,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-![image-20221011072914773](range-control-dev.assets/image-20221011072914773.png) 
+![image-20221014065525775](range-control-dev.assets/image-20221014065525775.png) 
 
 ### pip installation of pyvmomi
 
@@ -85,8 +85,8 @@ pip install --upgrade git+https://github.com/vmware/vsphere-automation-sdk-pytho
 ```bash
 pip install django==4.1.2
 django-admin --version
-django-admin startproject rc
-cd rc
+django-admin startproject rc_django
+cd rc_django
 ```
 
 
@@ -98,9 +98,9 @@ cd rc
 ./manage.py createsuperuser
 ```
 
-![image-20221011074139527](range-control-dev.assets/image-20221011074139527.png) 
+ ![image-20221014065912014](range-control-dev.assets/image-20221014065912014.png) 
 
-> rc user's password is in lastpass
+> admin user's password is in lastpass
 
 #### first run
 
@@ -110,3 +110,8 @@ cd rc
 
 ![image-20221011074347542](range-control-dev.assets/image-20221011074347542.png) 
 
+> Note, repeated this process within the Github source tree so that it could be placed under source code control.  Added a .gitignore file to avoid uploading python binaries associated with the virtual environment.
+
+### Authenticated as local django admin
+
+ ![image-20221014070132198](range-control-dev.assets/image-20221014070132198.png) 

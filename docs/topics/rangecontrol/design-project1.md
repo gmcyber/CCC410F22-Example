@@ -10,10 +10,11 @@ Week 1 - Set up a Development Environment
   * pyvmomi
   * django
 
+Week 2 - Django AD integration 
 
-Week 2 - Django AD integration
+* [Active Directory Integration](ad-configuration.md)
 
-* Login to Django using AD credentials and AD security group
+* Login to  [django](django.md) using AD credentials and AD security group
 
 Week 3 and 4 - Django pyvmomi integration
 
