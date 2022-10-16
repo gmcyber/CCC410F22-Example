@@ -27,3 +27,7 @@ This project will also allow me to exercise programming, system administration a
 
 * Very likely going to be a python or python web framework based application.  Pyvmomi libraries are relatively mature but will likely require far more work than the powershell frameworks I'm used to.
 * We are a vmware shop, so the back end is known.
+
+## Design Projects
+
+*  [Design 1](design-project1.md) 
