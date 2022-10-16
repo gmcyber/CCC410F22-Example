@@ -2,7 +2,10 @@
 
 > I've chosen to stick with the Range Control Topic, I've built up some forward momentum.  This topic will focus on the selection of the appropriate VMWare API and its integration into Django
 
-## [Project Kanban](https://github.com/users/gmcyber/projects/2)
+## Project Information
+
+* [Project Milestone](https://github.com/gmcyber/CCC410F22-Example/milestone/2)
+* [Project Kanban](https://github.com/users/gmcyber/projects/2)
 
 Week 1 - User Access to Django
 
