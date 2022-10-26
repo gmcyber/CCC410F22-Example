@@ -11,4 +11,5 @@
 * [Range Control](docs/topics/rangecontrol/rangecontrol.md)
 	* [Topic Decomposition](docs/topics/topic-decomposition.md) 
 	* [Design-Project 1](docs/topics/rangecontrol/design-project1.md)
-*   [Internet of Me](docs/topics/internetofme.md) 
+	* [Design-Project 2 ](docs/topics/rangecontrol/design-project2.md) 
+*   [Internet of Me](docs/topics/internetofme.md)
