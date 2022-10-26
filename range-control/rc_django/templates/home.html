@@ -1,0 +1,22 @@
+<!-- templates/home.html-->
+{% extends 'base.html' %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+  <p> Logged in User: {{ user.username }}</p>
+  <p> LDAP Groups:</p>
+
+  <ul>
+    {% for group in user.ldap_user.group_names %}
+        <li>{{ group }}</li>
+    {% endfor %}
+    </ul>
+  
+  <p><a href="{% url 'logout' %}">Log Out</a></p>
+{% else %}
+  <p>You are not logged in</p>
+  <a href="{% url 'login' %}">Log In</a>
+{% endif %}
+{% endblock %}
