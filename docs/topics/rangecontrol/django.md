@@ -98,3 +98,12 @@ AUTHENTICATION_BACKENDS = ( 'django_auth_ldap.backend.LDAPBackend','django.contr
 
 ![image-20221014082709905](django.assets/image-20221014082709905.png) 
 
+## User login screen
+
+* References
+
+  https://learndjango.com/tutorials/django-login-and-logout-tutorial
+
+  https://django-auth-ldap.readthedocs.io/en/latest/users.html
+
+![image-20221025123604435](django.assets/image-20221025123604435.png) 
