@@ -6,7 +6,6 @@
 
 * [Project Milestone](https://github.com/gmcyber/CCC410F22-Example/milestone/2)
 * [Project Kanban](https://github.com/users/gmcyber/projects/2)
-* Code:
 
 ## Tasks
 
@@ -22,6 +21,8 @@
 
 * [Design Project 2 - Demo 1](https://drive.google.com/file/d/1b9hgyJNf0Cq8P8BxOdOBEIAcocEneCoV/view?usp=sharing)
 
+* [Code](https://github.com/gmcyber/CCC410F22-Example/tree/main/range-control/rc_django)
+
 ### Weeks 2 and  3 - Test the Python Access to VSphere
 
 * Command line only, given username, list VMs from the ETHHACK course that use has access to.
@@ -31,6 +32,8 @@
   ![image-20221104074456325](design-project2.assets/image-20221104074456325.png) 
 
 * [Design Project 2 - Demo 2](https://drive.google.com/file/d/12ENStc9MRd_JgIPmCohBefLu9I0uLjAN/view?usp=sharing)
+
+* [Code](https://github.com/gmcyber/CCC410F22-Example/tree/main/range-control/pyvmomi-test)
 
 ### Week 4 - Integrate Python/vSphere and Django 
 
