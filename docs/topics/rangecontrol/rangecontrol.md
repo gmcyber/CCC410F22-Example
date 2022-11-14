@@ -28,6 +28,16 @@ This project will also allow me to exercise programming, system administration a
 * Very likely going to be a python or python web framework based application.  Pyvmomi libraries are relatively mature but will likely require far more work than the powershell frameworks I'm used to.
 * We are a vmware shop, so the back end is known.
 
-## Design Projects
+## Design Projects (Fall 2022)
 
 *  [Design 1](design-project1.md) 
+*  [Design 2](design-project2.md) 
+*  Final Presentation and Demonstration :construction:
+
+## Implementation Sprints (Spring 2023)
+
+* Sprint 1 :construction:
+* Sprint 2 :construction:
+* Sprint 3 :construction:
+* Sprint 4 :construction:
+* Capstone Presentation :construction:
