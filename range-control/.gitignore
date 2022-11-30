@@ -8,4 +8,5 @@ manage.py
 __pycache__
 __init__.py
 secure_settings.py
+django
 pyvmomi-test/pyvmomi-community-samples-master/
