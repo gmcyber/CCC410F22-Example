@@ -36,3 +36,9 @@ AUTH_LDAP_USER_FLAGS_BY_GROUP = { "is_staff": ["CN to the group you want to have
 AUTH_LDAP_FIND_GROUP_PERMS = True 
 # The backends needed to make this work. 
 AUTHENTICATION_BACKENDS = ( 'django_auth_ldap.backend.LDAPBackend','django.contrib.auth.backends.ModelBackend') 
+
+#for pyvmomi stuff
+VCENTER_SERVER = "vcenter.host.name" 
+VCENTER_USER = "range control ad user"
+VCENTER_PASSWORD="password goes here"
+TARGET_FOLDER="vsphere vm folder that has student targets in it"
