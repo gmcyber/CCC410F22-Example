@@ -1,8 +1,8 @@
 # Range Control
 
-> Range control will be a secure web application that abstracts the details of vcenter traditionally used for SEC335 from students.  The idea is to emulate some of the key features used in commercial range platforms like HackTheBox and others.
+> Range control will be a secure web application that abstracts the details of vcenter traditionally used for Champlain College Cyber Security students.  The idea is to emulate some of the useful features used in commercial range platforms like HackTheBox and others.
 
-## Why?
+## Problem Statement
 
 VCenter's web client is overkill for the low interaction needs of a cyber security range.  The student needs a client such as kali and windows 10 desktop and they need the networking to reach their assigned set of targets.  That is it.  Using the vcenter webui, ties us to vcenter, esxi and vmware based products.  A web interface would allow us to swap out the backend virtualization layer should we want to later.
 
@@ -27,6 +27,10 @@ This project will also allow me to exercise programming, system administration a
 
 * Very likely going to be a python or python web framework based application.  Pyvmomi libraries are relatively mature but will likely require far more work than the powershell frameworks I'm used to.
 * We are a vmware shop, so the back end is known.
+
+## Dependencies (Risk Register)
+
+* [Dependencies](dependencies.md) 
 
 ## Design Projects (Fall 2022)
 
