@@ -36,7 +36,7 @@ This project will also allow me to exercise programming, system administration a
 
 *  [Design 1](design-project1.md) 
 *  [Design 2](design-project2.md) 
-*  Final Presentation and Demonstration :construction:
+*   [Design Presentation](design-presentation/design-presentation.md) 
 
 ## Implementation Sprints (Spring 2023)
 
