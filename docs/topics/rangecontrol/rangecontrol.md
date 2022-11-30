@@ -36,8 +36,8 @@ This project will also allow me to exercise programming, system administration a
 
 ## Implementation Sprints (Spring 2023)
 
-* Sprint 1 :construction:
-* Sprint 2 :construction:
-* Sprint 3 :construction:
-* Sprint 4 :construction:
+*  [Sprint1](sprint1.md)
+*  [Sprint2](sprint2.md)
+* [Sprint3](sprint3.md)
+* [Sprint4](sprint4.md)
 * Capstone Presentation :construction:
