@@ -7,3 +7,6 @@ Target/User stats such as
 - user flag
 - score
 - hints
+
+[Milestone](https://github.com/gmcyber/CCC410F22-Example/milestone/4)
+
