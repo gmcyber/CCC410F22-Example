@@ -8,7 +8,7 @@
 
 > This represents my two top topic ideas as of Fall 22, Week 1.  The first is definitely the front runner as it will help provide better environment for SEC335 and SEC480 Ethical Hacking Students and I plan to build it anyway.  The second (Internet of Me) is more of a hobby and can leverage the years of fitness tracking data I've accumulated but have not really looked at holistically.
 
-* [Ethhack UI](docs/topics/ethhack-ui/ethhack-ui.md)
+* [Ethhack UI](docs/topics/ethhack-ui/ethhack-ui.md) (Formerly known as Range Control)
   * [Topic Decomposition](docs/topics/topic-decomposition.md) 
   * [Design-Project 1](docs/topics/ethhack-ui/design-project1.md)
   * [Design-Project 2 ](docs/topics/ethhack-ui/design-project2.md) 
