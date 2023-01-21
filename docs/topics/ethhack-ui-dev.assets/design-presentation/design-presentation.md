@@ -1,7 +1,7 @@
 # Fall 2022 - Design Presentation
 
 *  [abstract](abstract.md)
-*  [background and topic overview](../rangecontrol.md)
+*  [background and topic overview](../ethhack-ui.md)
 *  [accomplishments](accomplishments.md)
 
 * The plan for Spring 2023
