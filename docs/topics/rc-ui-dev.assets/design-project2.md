@@ -1,6 +1,6 @@
-# Design Project 2 - Range Control
+# Design Project 2 - Ethhack UI
 
-> I've chosen to stick with the Range Control Topic, I've built up some forward momentum.  This topic will focus on the selection of the appropriate VMWare API and its integration into Django
+> I've chosen to stick with the Ethhack UI Topic, I've built up some forward momentum.  This topic will focus on the selection of the appropriate VMWare API and its integration into Django
 
 ## Project Information
 
@@ -43,7 +43,7 @@
 * More design here needed
   * We need a vsphere service user (it could be the same one as LDAP) who can see all the targets and see who has access to them.  Place username/pw in secure_settings.py
   * We need a new role in vpshere for the service user.  It is possible they have the same permissions as the EthHack Role
-  * named user logs in to the range control
+  * named user logs in to the Ethhack UI
   * the vsphere service users checks to see what VMs that user has access to
   * those vms are printed out
 

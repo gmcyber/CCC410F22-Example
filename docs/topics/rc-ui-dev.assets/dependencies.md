@@ -1,4 +1,4 @@
-# Range Control Dependencies
+# Ethhack UI Dependencies
 
 This project is fortunate in that it has very few dependencies that cannot be resolved.
 

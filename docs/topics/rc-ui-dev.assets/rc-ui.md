@@ -1,6 +1,6 @@
-# Range Control
+# Ethhack UI
 
-> Range control will be a secure web application that abstracts the details of vcenter traditionally used for Champlain College Cyber Security students.  The idea is to emulate some of the useful features used in commercial range platforms like HackTheBox and others.
+> Ethhack UI will be a secure web application that abstracts the details of vcenter traditionally used for Champlain College Cyber Security students.  The idea is to emulate some of the useful features used in commercial range platforms like HackTheBox and others.
 
 ## Problem Statement
 

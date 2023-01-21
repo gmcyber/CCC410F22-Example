@@ -1,6 +1,6 @@
 # range-control-dev.cyber.local
 
-> This xubuntu system will be used to develop the range control web service.  The production deploy will target an ubuntu foca server.
+> This xubuntu system will be used to develop the Ethhack UI web service.  The production deploy will target an ubuntu foca server.
 
 [TOC]
 

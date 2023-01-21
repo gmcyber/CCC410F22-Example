@@ -1,55 +1,3 @@
-# Django
-
-## Installation
-
-* This can be found in  [range-control-dev.md](range-control-dev.md) 
-
-## AD Integration
-
-* [ad-configuration.md](ad-configuration.md) 
-
-### OS Dependencies
-
-```bash
-sudo apt-get install -y  libldap2-dev libsasl2-dev ldap-utils
-```
-
-### venv additions
-
-```bash
-pip install python-ldap django-auth-ldap
-```
-
-## settings.py
-
-> This file potentially has api keys and AD information that we really should take pains to ensure are not in github.  For this reason, I'm going to explicitly include secure_settings.py (which holds sensitive data) I will add secure_settings.py to .gitignore.  This technique is documented [here](https://djangostars.com/blog/configuring-django-settings-best-practices/)
-
-```python
-try:
-    from .secure_settings import *
-except ImportError:
-    raise Exception("A secure_settings.py file is required to run this project")
-```
-
-## .gitignore
-
-```
-# range control git ignore file
-venv/
-db.sqlite3
-manage.py
-*.pyc
-*.log
-*.pot
-__pycache__
-__init__.py
-secure_settings.py
-
-```
-
-### secure_settings.py
-
-```python
 import ldap 
 from django_auth_ldap.config import LDAPSearch, NestedActiveDirectoryGroupType 
 # Binding and connection options 
@@ -88,22 +36,9 @@ AUTH_LDAP_USER_FLAGS_BY_GROUP = { "is_staff": ["CN to the group you want to have
 AUTH_LDAP_FIND_GROUP_PERMS = True 
 # The backends needed to make this work. 
 AUTHENTICATION_BACKENDS = ( 'django_auth_ldap.backend.LDAPBackend','django.contrib.auth.backends.ModelBackend') 
-```
 
-
-
-## AD Super User login
-
-> The following shows an ldaps based login to django using a user within an active directory group.
-
-![image-20221014082709905](django.assets/image-20221014082709905.png) 
-
-## User login screen
-
-* References
-
-  https://learndjango.com/tutorials/django-login-and-logout-tutorial
-
-  https://django-auth-ldap.readthedocs.io/en/latest/users.html
-
-![image-20221025123604435](django.assets/image-20221025123604435.png) 
+#for pyvmomi stuff
+VCENTER_SERVER = "vcenter.host.name" 
+VCENTER_USER = "Ethhack UI ad user"
+VCENTER_PASSWORD="password goes here"
+TARGET_FOLDER="vsphere vm folder that has student targets in it"

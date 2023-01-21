@@ -1,6 +1,6 @@
-# Range Control Topic Decomposition
+# Ethhack UI Topic Decomposition
 
-The following mindmap and outline represent an initial decomposition of the Range Control topic
+The following mindmap and outline represent an initial decomposition of the Ethhack UI topic
 
 ## Mindmap
 
@@ -8,7 +8,7 @@ The following mindmap and outline represent an initial decomposition of the Rang
 
 ## Outline
 
-# Range Control
+# Ethhack UI
 
 ## Web Application Framework
 
@@ -36,7 +36,7 @@ We need a database, the intent is to run this under linux so mariadb or postgres
 
 ### scoring database
 
-We need a means to persist user data across sessions with Range Control
+We need a means to persist user data across sessions with Ethhack UI
 
 ## Access Control
 

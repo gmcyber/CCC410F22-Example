@@ -2,12 +2,12 @@
 
 > Leveraging cyber.local ADCS environment
 
-## Range Control Security Groups
+## Ethhack UI Security Groups
 
 ![image-20221014080407297](ad-configuration.assets/image-20221014080407297.png) 
 
 * range-control users will be students who will have limited access to student specific functionality
-* range-control admins will have staff and superuser access to the range control application
+* range-control admins will have staff and superuser access to the Ethhack UI application
 * range-control is a parent group, containing both admins and users. 
 
 ## range.control service user

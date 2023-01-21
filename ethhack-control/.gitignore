@@ -1,4 +1,4 @@
-# range control git ignore file
+# Ethhack UI git ignore file
 venv/
 db.sqlite3
 manage.py
