@@ -2,7 +2,7 @@
 
 ## Installation
 
-* This can be found in  [range-control-dev.md](range-control-dev.md) 
+* This can be found in  [ethhack-ui-dev.md](ethhack-ui-dev.md) 
 
 ## AD Integration
 

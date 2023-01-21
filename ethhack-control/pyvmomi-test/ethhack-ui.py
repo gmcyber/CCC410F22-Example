@@ -19,7 +19,7 @@ def get_obj(content, vimtype, name):
             break
     return obj
 
-config_file = open('range-control.json')
+config_file = open('ethhack-ui.json')
 config = json.load(config_file)
 config_file.close
 vcenter = config["vcenter"]

@@ -8,7 +8,7 @@ Week 1 - Set up a Development Environment
 
 * vcenter/esxi/active directory setup (will use vcenter02)
 * create a Ethhack UI service user and a set of "test range users" in AD.
-* development workstation [range-control-dev.md](range-control-dev.md) 
+* development workstation [ethhack-ui-dev.md](ethhack-ui-dev.md) 
   * pyvmomi
   * django
 
